@@ -1,0 +1,6006 @@
+<?xml version="1.0" ?>
+<relations>
+	<relation changeset="18181427" id="452183" timestamp="2013-10-04T16:11:15Z" uid="206037" user="hurdygurdyman" version="5">
+		
+    
+		<member ref="52508399" role="outer" type="way"/>
+		
+    
+		<member ref="100855934" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="452383" timestamp="2010-04-04T22:57:17Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="37369357" role="outer" type="way"/>
+		
+    
+		<member ref="52518720" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39418502" id="452615" timestamp="2016-05-19T08:53:53Z" uid="3937745" user="MARTHA PAP" version="4">
+		
+    
+		<member ref="137089266" role="outer" type="way"/>
+		
+    
+		<member ref="52538545" role="outer" type="way"/>
+		
+    
+		<member ref="137089267" role="outer" type="way"/>
+		
+    
+		<member ref="52538550" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Charaki Beach"/>
+		
+    
+		<tag k="name" v="Παραλία Χαράκι"/>
+		
+    
+		<tag k="name:en" v="Charaki Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="453080" timestamp="2010-04-04T22:57:27Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52581421" role="outer" type="way"/>
+		
+    
+		<member ref="36502738" role="outer" type="way"/>
+		
+    
+		<member ref="52581423" role="outer" type="way"/>
+		
+    
+		<member ref="52581426" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="453082" timestamp="2010-04-04T22:57:21Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="36502741" role="outer" type="way"/>
+		
+    
+		<member ref="52581510" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="12681701" id="453083" timestamp="2012-08-10T16:01:56Z" uid="653" user="aitolos" version="3">
+		
+    
+		<member ref="52581521" role="outer" type="way"/>
+		
+    
+		<member ref="52581520" role="outer" type="way"/>
+		
+    
+		<member ref="36259156" role="outer" type="way"/>
+		
+    
+		<member ref="52581519" role="outer" type="way"/>
+		
+    
+		<member ref="36259153" role="outer" type="way"/>
+		
+    
+		<member ref="36259155" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="First Psaraliki"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="453086" timestamp="2010-04-04T22:52:25Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52581666" role="outer" type="way"/>
+		
+    
+		<member ref="36781000" role="outer" type="way"/>
+		
+    
+		<member ref="36781002" role="outer" type="way"/>
+		
+    
+		<member ref="52581679" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Second Psaraliki"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="17233164" id="453087" timestamp="2013-08-05T20:34:22Z" uid="214703" user="B_Piguet" version="4">
+		
+    
+		<member ref="52581753" role="outer" type="way"/>
+		
+    
+		<member ref="36131899" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Σωρό"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Σωρό"/>
+		
+    
+		<tag k="name:en" v="Soros"/>
+		
+    
+		<tag k="name:fr" v="Soros"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="int_name" v="Soros"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="453088" timestamp="2010-04-04T22:52:20Z" uid="23785" user="greecemapper" version="3">
+		
+    
+		<member ref="52581769" role="outer" type="way"/>
+		
+    
+		<member ref="36259149" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Livadia"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="453089" timestamp="2010-04-04T22:57:20Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52581806" role="outer" type="way"/>
+		
+    
+		<member ref="52581807" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="453090" timestamp="2010-04-04T22:57:23Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52581812" role="outer" type="way"/>
+		
+    
+		<member ref="35999695" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="24996937" id="453120" timestamp="2014-08-25T08:02:48Z" uid="308" user="MichaelCollinson" version="5">
+		
+    
+		<member ref="42975554" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Agios Prokopios Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="tourism" v="attraction"/>
+		
+    
+		<tag k="description" v="With Agia Anna to the south-west, this is Naxos' main beach strip."/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="29496231" id="453124" timestamp="2015-03-15T14:24:51Z" uid="653" user="aitolos" version="6">
+		
+    
+		<member ref="52582073" role="outer" type="way"/>
+		
+    
+		<member ref="52582075" role="outer" type="way"/>
+		
+    
+		<member ref="42720864" role="outer" type="way"/>
+		
+    
+		<member ref="52582077" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Παραλία Αγίου Γεωργίου"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:de" v="St. Georg Strand"/>
+		
+    
+		<tag k="name:el" v="Παραλία Αγίου Γεωργίου"/>
+		
+    
+		<tag k="name:en" v="Saint George Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="453216" timestamp="2010-04-04T22:52:31Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="26011144" role="outer" type="way"/>
+		
+    
+		<member ref="52588461" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Παραλια Λωλαντωγη"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="453222" timestamp="2010-04-04T22:52:24Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52588662" role="outer" type="way"/>
+		
+    
+		<member ref="52588663" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Golden Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="24988057" id="453226" timestamp="2014-08-24T19:43:51Z" uid="308" user="MichaelCollinson" version="3">
+		
+    
+		<member ref="52588868" role="outer" type="way"/>
+		
+    
+		<member ref="52588864" role="outer" type="way"/>
+		
+    
+		<member ref="52588865" role="outer" type="way"/>
+		
+    
+		<member ref="52588866" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Μώλος"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:en" v="Molos Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="453237" timestamp="2010-04-04T22:52:26Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52590013" role="outer" type="way"/>
+		
+    
+		<member ref="52590012" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:de" v="Sandstrand"/>
+		
+    
+		<tag k="name:en" v="Sandy Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="453238" timestamp="2010-04-04T22:57:26Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52590886" role="outer" type="way"/>
+		
+    
+		<member ref="52590702" role="outer" type="way"/>
+		
+    
+		<member ref="52590681" role="outer" type="way"/>
+		
+    
+		<member ref="52590710" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="35076677" id="453242" timestamp="2015-11-04T11:38:46Z" uid="3093838" user="xenofondas" version="3">
+		
+    
+		<member ref="52591540" role="outer" type="way"/>
+		
+    
+		<member ref="27970425" role="outer" type="way"/>
+		
+    
+		<member ref="52591550" role="outer" type="way"/>
+		
+    
+		<member ref="52591537" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Παραλία Φαλάσαρνα"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="453965" timestamp="2010-04-04T22:57:23Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52698358" role="outer" type="way"/>
+		
+    
+		<member ref="52698359" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="27132983" id="453969" timestamp="2014-11-30T14:41:41Z" uid="653" user="aitolos" version="4">
+		
+    
+		<member ref="52698377" role="outer" type="way"/>
+		
+    
+		<member ref="52698376" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Baxedes Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="453970" timestamp="2010-04-04T22:57:26Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="26358553" role="outer" type="way"/>
+		
+    
+		<member ref="52698441" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="24999952" id="453972" timestamp="2014-08-25T10:43:37Z" uid="308" user="MichaelCollinson" version="4">
+		
+    
+		<member ref="52698562" role="outer" type="way"/>
+		
+    
+		<member ref="52698561" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Kamari Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="tourism" v="attraction"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="454525" timestamp="2010-04-04T22:57:20Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52724792" role="outer" type="way"/>
+		
+    
+		<member ref="37449768" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="description" v="sand, medium sized pebbles, little shadow"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="454527" timestamp="2010-04-04T22:57:25Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52725130" role="outer" type="way"/>
+		
+    
+		<member ref="52725128" role="outer" type="way"/>
+		
+    
+		<member ref="52725131" role="outer" type="way"/>
+		
+    
+		<member ref="37350771" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="description" v="medium sized pebbles, some sand, sunbed rental"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18696950" id="454536" timestamp="2013-11-03T16:18:36Z" uid="692602" user="Kanenas" version="3">
+		
+    
+		<member ref="52725214" role="outer" type="way"/>
+		
+    
+		<member ref="52725218" role="outer" type="way"/>
+		
+    
+		<member ref="37450653" role="outer" type="way"/>
+		
+    
+		<member ref="52725216" role="outer" type="way"/>
+		
+    
+		<member ref="37450652" role="outer" type="way"/>
+		
+    
+		<member ref="37350766" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Ψιλή Άμμος"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="access" v="yes"/>
+		
+    
+		<tag k="name:el" v="Ψιλή Άμμος"/>
+		
+    
+		<tag k="name:en" v="Psili Amos"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="description" v="sand; sunbed rental"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="454537" timestamp="2010-04-04T22:57:24Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="37448736" role="outer" type="way"/>
+		
+    
+		<member ref="52725233" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="description" v="small pebbles, some sand, little shadow, sunbed rental"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="454538" timestamp="2010-04-04T22:57:26Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52725553" role="outer" type="way"/>
+		
+    
+		<member ref="52725555" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="454539" timestamp="2010-04-04T22:57:18Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="37448747" role="outer" type="way"/>
+		
+    
+		<member ref="52725556" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="description" v="very small beach, small pebbles"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="454541" timestamp="2010-04-04T22:57:25Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="37448744" role="outer" type="way"/>
+		
+    
+		<member ref="52725577" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="description" v="medium sized pebbles, one big tree for shadow, no facilities"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="454542" timestamp="2010-04-04T22:57:26Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52725615" role="outer" type="way"/>
+		
+    
+		<member ref="52725610" role="outer" type="way"/>
+		
+    
+		<member ref="52725609" role="outer" type="way"/>
+		
+    
+		<member ref="37347366" role="outer" type="way"/>
+		
+    
+		<member ref="52725612" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="description" v="Small pebbles + sand, trees for shadow, calm water. Changing cabins. No sunbed rental."/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="454543" timestamp="2010-04-04T22:52:21Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="37350779" role="outer" type="way"/>
+		
+    
+		<member ref="52725641" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Mourtia"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="description" v="small pebbles, little facilities (I saw only a changing cabin), many boats on the water"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="454544" timestamp="2010-04-04T22:57:23Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52725681" role="outer" type="way"/>
+		
+    
+		<member ref="52725680" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="23989434" id="454545" timestamp="2014-07-06T18:18:57Z" uid="653" user="aitolos" version="8">
+		
+    
+		<member ref="52725700" role="outer" type="way"/>
+		
+    
+		<member ref="52725698" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18696950" id="454560" timestamp="2013-11-03T16:18:36Z" uid="692602" user="Kanenas" version="5">
+		
+    
+		<member ref="37372606" role="outer" type="way"/>
+		
+    
+		<member ref="52726655" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Ποτάμι"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Ποτάμι"/>
+		
+    
+		<tag k="name:en" v="Potami"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="pebblestone"/>
+		
+    
+		<tag k="description" v="Mid-Sized pebbles (3 cm). Little shadow."/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="454561" timestamp="2010-04-04T22:57:20Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52726786" role="outer" type="way"/>
+		
+    
+		<member ref="37371786" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="description" v="Very small beach, pebbles, not that good for bathing. Try Mikro Seitani first."/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18696950" id="454564" timestamp="2013-11-03T16:18:36Z" uid="692602" user="Kanenas" version="3">
+		
+    
+		<member ref="37371789" role="outer" type="way"/>
+		
+    
+		<member ref="52726903" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Μικρό Σεϊτάνι"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Μικρό Σεϊτάνι"/>
+		
+    
+		<tag k="name:en" v="Mikro Seitani"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="description" v="Small pebbles. Little shadow."/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="454566" timestamp="2010-04-04T22:52:26Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="42278477" role="outer" type="way"/>
+		
+    
+		<member ref="52727212" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Plaka Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="454567" timestamp="2010-04-04T22:52:29Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="42278474" role="outer" type="way"/>
+		
+    
+		<member ref="52518722" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Plaka Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="454569" timestamp="2010-04-04T22:52:24Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52727844" role="outer" type="way"/>
+		
+    
+		<member ref="52727847" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Agiannni Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="454570" timestamp="2010-04-04T22:52:27Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="42452055" role="outer" type="way"/>
+		
+    
+		<member ref="52727850" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Beach Ioannis"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="454573" timestamp="2010-04-04T22:57:21Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52728059" role="outer" type="way"/>
+		
+    
+		<member ref="52728061" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4327711" id="454575" timestamp="2010-04-04T21:42:59Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52728283" role="outer" type="way"/>
+		
+    
+		<member ref="52728287" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Ag. Nikolaos"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9589748" id="454576" timestamp="2011-10-18T10:12:39Z" uid="4660" user="alv" version="3">
+		
+    
+		<member ref="133734457" role="outer" type="way"/>
+		
+    
+		<member ref="52728640" role="outer" type="way"/>
+		
+    
+		<member ref="52728636" role="outer" type="way"/>
+		
+    
+		<member ref="37452836" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="description" v="Sand, small pebbles, sunbed rental"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="19205343" id="454577" timestamp="2013-12-01T07:12:52Z" uid="1824824" user="jkilou" version="3">
+		
+    
+		<member ref="52728796" role="outer" type="way"/>
+		
+    
+		<member ref="37452839" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Psili Ammos"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Jkilou"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="description" v="Sand, medium sized pebbles; Sunbed rental; Showers"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="19205180" id="454578" timestamp="2013-12-01T06:43:18Z" uid="1824824" user="jkilou" version="4">
+		
+    
+		<member ref="52729086" role="outer" type="way"/>
+		
+    
+		<member ref="52729088" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Κουκουνάρα"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Κουκουναρά"/>
+		
+    
+		<tag k="name:en" v="Koukounara"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="530649" timestamp="2010-04-04T22:57:25Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52958033" role="outer" type="way"/>
+		
+    
+		<member ref="52958035" role="outer" type="way"/>
+		
+    
+		<member ref="52958032" role="outer" type="way"/>
+		
+    
+		<member ref="26416372" role="outer" type="way"/>
+		
+    
+		<member ref="26477452" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="530653" timestamp="2010-04-04T22:52:29Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52958125" role="outer" type="way"/>
+		
+    
+		<member ref="52958126" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Tolos"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="530654" timestamp="2010-04-04T22:52:18Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52958129" role="outer" type="way"/>
+		
+    
+		<member ref="28299358" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Tolos"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="530655" timestamp="2010-04-04T22:52:22Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52958159" role="outer" type="way"/>
+		
+    
+		<member ref="26529003" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Stavros"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4327711" id="530657" timestamp="2010-04-04T21:42:58Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="52958196" role="outer" type="way"/>
+		
+    
+		<member ref="26590703" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Agia Petros"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="530738" timestamp="2010-04-04T22:57:22Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="36822226" role="outer" type="way"/>
+		
+    
+		<member ref="36822227" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="530739" timestamp="2010-04-04T22:57:25Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="36822228" role="outer" type="way"/>
+		
+    
+		<member ref="52967964" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="531980" timestamp="2010-04-04T22:52:30Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="53055653" role="outer" type="way"/>
+		
+    
+		<member ref="53055651" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Platis Gialos"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="531982" timestamp="2010-04-04T22:52:23Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="53055678" role="outer" type="way"/>
+		
+    
+		<member ref="53055681" role="outer" type="way"/>
+		
+    
+		<member ref="53055680" role="outer" type="way"/>
+		
+    
+		<member ref="38820394" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Αποκοφτό"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Αποκοφτό"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="531986" timestamp="2010-04-04T22:52:24Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="38816806" role="outer" type="way"/>
+		
+    
+		<member ref="53055705" role="outer" type="way"/>
+		
+    
+		<member ref="53055707" role="outer" type="way"/>
+		
+    
+		<member ref="53055708" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Φασολού"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Φασολού"/>
+		
+    
+		<tag k="name:en" v="Fassolou"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="532002" timestamp="2010-04-04T22:52:30Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="25817341" role="outer" type="way"/>
+		
+    
+		<member ref="53056080" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Καλό Αμπέλι"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="532003" timestamp="2010-04-04T22:52:18Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="25817342" role="outer" type="way"/>
+		
+    
+		<member ref="53056106" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Βαγιά"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39127643" id="532004" timestamp="2016-05-05T19:10:57Z" uid="2146423" user="adi_z" version="3">
+		
+    
+		<member ref="53056109" role="outer" type="way"/>
+		
+    
+		<member ref="53056108" role="outer" type="way"/>
+		
+    
+		<tag k="is_in:island" v="Serifos"/>
+		
+    
+		<tag k="name" v="Γάνεμα"/>
+		
+    
+		<tag k="name:el" v="Γάνεμα"/>
+		
+    
+		<tag k="name:ro" v="Plaja Ganema"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="32119335" id="532005" timestamp="2015-06-21T15:19:54Z" uid="615749" user="mtraveller" version="3">
+		
+    
+		<member ref="53056126" role="outer" type="way"/>
+		
+    
+		<member ref="25817339" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Άι Γιάννης"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Άι Γιάννης"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="alt_name" v="Άγιος Γιάννης"/>
+		
+    
+		<tag k="int_name" v="Ai Giannis"/>
+		
+    
+		<tag k="old_name" v="Άγιος Ιωάννης"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39127332" id="532007" timestamp="2016-05-05T18:53:51Z" uid="2146423" user="adi_z" version="3">
+		
+    
+		<member ref="25817340" role="outer" type="way"/>
+		
+    
+		<member ref="53056133" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Ψιλη Αμμος"/>
+		
+    
+		<tag k="name:en" v="Fine sands"/>
+		
+    
+		<tag k="name:ro" v="Nisip fin"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="36013166" id="533715" timestamp="2015-12-17T17:13:53Z" uid="653" user="aitolos" version="3">
+		
+    
+		<member ref="53197196" role="outer" type="way"/>
+		
+    
+		<member ref="42142982" role="outer" type="way"/>
+		
+    
+		<member ref="42142981" role="outer" type="way"/>
+		
+    
+		<member ref="42142549" role="outer" type="way"/>
+		
+    
+		<member ref="386369513" role="outer" type="way"/>
+		
+    
+		<member ref="42142978" role="outer" type="way"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="533716" timestamp="2010-04-04T22:57:23Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="53197274" role="outer" type="way"/>
+		
+    
+		<member ref="53197279" role="outer" type="way"/>
+		
+    
+		<member ref="42144582" role="outer" type="way"/>
+		
+    
+		<member ref="53197267" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="536483" timestamp="2010-04-04T22:52:28Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="53508062" role="outer" type="way"/>
+		
+    
+		<member ref="38806442" role="outer" type="way"/>
+		
+    
+		<member ref="53508060" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Helona Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="536484" timestamp="2010-04-04T22:57:18Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="38806442" role="outer" type="way"/>
+		
+    
+		<member ref="53508063" role="outer" type="way"/>
+		
+    
+		<member ref="53508067" role="outer" type="way"/>
+		
+    
+		<member ref="39107121" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="536485" timestamp="2010-04-04T22:52:22Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="53508067" role="outer" type="way"/>
+		
+    
+		<member ref="53508064" role="outer" type="way"/>
+		
+    
+		<member ref="38806532" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Robinson Club Daidalos"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="536499" timestamp="2010-04-04T22:57:18Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="53508890" role="outer" type="way"/>
+		
+    
+		<member ref="53508891" role="outer" type="way"/>
+		
+    
+		<member ref="39089445" role="outer" type="way"/>
+		
+    
+		<member ref="53508906" role="outer" type="way"/>
+		
+    
+		<member ref="53508893" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="536611" timestamp="2010-04-04T22:57:25Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="26978426" role="outer" type="way"/>
+		
+    
+		<member ref="53535069" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="13522699" id="537004" timestamp="2012-10-16T18:35:00Z" uid="653" user="aitolos" version="3">
+		
+    
+		<member ref="42194235" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Krios Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="537006" timestamp="2010-04-04T22:52:28Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="53570591" role="outer" type="way"/>
+		
+    
+		<member ref="53570592" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Mammeno Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="537009" timestamp="2010-04-04T22:52:26Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="27966036" role="outer" type="way"/>
+		
+    
+		<member ref="53570672" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Trahili Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="537010" timestamp="2010-04-04T22:52:29Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="53570673" role="outer" type="way"/>
+		
+    
+		<member ref="53570674" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Grammeno Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="12694935" id="537019" timestamp="2012-08-11T19:29:11Z" uid="653" user="aitolos" version="5">
+		
+    
+		<member ref="27623101" role="outer" type="way"/>
+		
+    
+		<member ref="53571102" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="537023" timestamp="2010-04-04T22:52:22Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="53571876" role="outer" type="way"/>
+		
+    
+		<member ref="27737301" role="outer" type="way"/>
+		
+    
+		<member ref="53571884" role="outer" type="way"/>
+		
+    
+		<member ref="53571874" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Balos Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="36302120" id="537028" timestamp="2016-01-01T17:22:15Z" uid="13832" user="Peter14" version="3">
+		
+    
+		<member ref="51931912" role="outer" type="way"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39385635" id="537210" timestamp="2016-05-17T19:46:15Z" uid="3937745" user="MARTHA PAP" version="6">
+		
+    
+		<member ref="53589052" role="outer" type="way"/>
+		
+    
+		<member ref="53589050" role="outer" type="way"/>
+		
+    
+		<member ref="142896469" role="outer" type="way"/>
+		
+    
+		<member ref="184290578" role="outer" type="way"/>
+		
+    
+		<member ref="184290579" role="outer" type="way"/>
+		
+    
+		<tag k="access" v="yes"/>
+		
+    
+		<tag k="int_name" v="Stegna Beach"/>
+		
+    
+		<tag k="name" v="Παραλία Στεγνά"/>
+		
+    
+		<tag k="name:en" v="Stegna Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="pebbles"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39385635" id="537216" timestamp="2016-05-17T19:46:14Z" uid="3937745" user="MARTHA PAP" version="4">
+		
+    
+		<member ref="25342043" role="outer" type="way"/>
+		
+    
+		<member ref="53589854" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Agathi Beach"/>
+		
+    
+		<tag k="name" v="Παραλία Αγάθη"/>
+		
+    
+		<tag k="name:en" v="Agathi Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="541088" timestamp="2010-04-04T22:52:29Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="28448132" role="outer" type="way"/>
+		
+    
+		<member ref="54046731" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="secret beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="541090" timestamp="2010-04-04T22:57:19Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="30175211" role="outer" type="way"/>
+		
+    
+		<member ref="54046758" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="pebbles"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="541092" timestamp="2010-04-04T22:52:29Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="30124222" role="outer" type="way"/>
+		
+    
+		<member ref="54046968" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="chohlaka beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="pebbles"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="541093" timestamp="2010-04-04T22:52:17Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="54046960" role="outer" type="way"/>
+		
+    
+		<member ref="54046970" role="outer" type="way"/>
+		
+    
+		<member ref="54046963" role="outer" type="way"/>
+		
+    
+		<member ref="54046961" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="new beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="541094" timestamp="2010-04-04T22:52:21Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="54047023" role="outer" type="way"/>
+		
+    
+		<member ref="30175806" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="potha beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="gravel"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="541099" timestamp="2010-04-04T22:52:26Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="30175842" role="outer" type="way"/>
+		
+    
+		<member ref="54047099" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="paradise beach"/>
+		
+    
+		<tag k="note" v="official nude beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="17704654" id="541101" timestamp="2013-09-06T15:42:31Z" uid="653" user="aitolos" version="4">
+		
+    
+		<member ref="54048338" role="outer" type="way"/>
+		
+    
+		<member ref="236068924" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15589504" id="542012" timestamp="2013-04-03T03:27:38Z" uid="692602" user="Kanenas" version="5">
+		
+    
+		<member ref="54155796" role="outer" type="way"/>
+		
+    
+		<member ref="54155807" role="outer" type="way"/>
+		
+    
+		<member ref="54155806" role="outer" type="way"/>
+		
+    
+		<member ref="215031578" role="outer" type="way"/>
+		
+    
+		<member ref="215031562" role="outer" type="way"/>
+		
+    
+		<member ref="54155797" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Μαγγανάρι"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Μαγγανάρι"/>
+		
+    
+		<tag k="name:en" v="Manganari"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="34120757" id="542014" timestamp="2015-09-19T13:14:08Z" uid="2230379" user="jo_osm" version="5">
+		
+    
+		<member ref="371480795" role="outer" type="way"/>
+		
+    
+		<member ref="305407852" role="outer" type="way"/>
+		
+    
+		<member ref="305407855" role="outer" type="way"/>
+		
+    
+		<member ref="305407853" role="outer" type="way"/>
+		
+    
+		<member ref="305407851" role="outer" type="way"/>
+		
+    
+		<member ref="54155843" role="outer" type="way"/>
+		
+    
+		<member ref="54155844" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Κάλαμος"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Κάλαμος"/>
+		
+    
+		<tag k="name:en" v="Kalamos"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328246" id="542023" timestamp="2010-04-04T22:52:31Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="54156230" role="outer" type="way"/>
+		
+    
+		<member ref="54156231" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Mylopotas"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15589504" id="542024" timestamp="2013-04-03T03:27:38Z" uid="692602" user="Kanenas" version="4">
+		
+    
+		<member ref="54156521" role="outer" type="way"/>
+		
+    
+		<member ref="215134752" role="outer" type="way"/>
+		
+    
+		<member ref="215134754" role="outer" type="way"/>
+		
+    
+		<member ref="215134727" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Κουμπάρα"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Κουμπάρα"/>
+		
+    
+		<tag k="name:en" v="Koumbara"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="25725099" id="542026" timestamp="2014-09-28T13:12:52Z" uid="2230379" user="jo_osm" version="4">
+		
+    
+		<member ref="305407849" role="outer" type="way"/>
+		
+    
+		<member ref="305407850" role="outer" type="way"/>
+		
+    
+		<member ref="305407854" role="outer" type="way"/>
+		
+    
+		<member ref="54158450" role="outer" type="way"/>
+		
+    
+		<member ref="54158454" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Αγία Θεοδότη"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Αγία Θεοδότη"/>
+		
+    
+		<tag k="name:en" v="Agia Theodoti"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="542968" timestamp="2010-04-04T22:57:22Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="26477396" role="outer" type="way"/>
+		
+    
+		<member ref="54222625" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328274" id="542969" timestamp="2010-04-04T22:57:25Z" uid="23785" user="greecemapper" version="2">
+		
+    
+		<member ref="26416261" role="outer" type="way"/>
+		
+    
+		<member ref="54222627" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="17161413" id="543199" timestamp="2013-07-31T06:32:32Z" uid="43262" user="KonTur" version="4">
+		
+    
+		<member ref="54240194" role="outer" type="way"/>
+		
+    
+		<member ref="165336949" role="outer" type="way"/>
+		
+    
+		<member ref="54240191" role="outer" type="way"/>
+		
+    
+		<member ref="231885582" role="outer" type="way"/>
+		
+    
+		<member ref="30109696" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Asini Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4328124" id="543764" timestamp="2010-04-04T22:31:16Z" uid="23785" user="greecemapper" version="1">
+		
+    
+		<member ref="40695627" role="outer" type="way"/>
+		
+    
+		<member ref="54313366" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="31265220" id="543846" timestamp="2015-05-18T19:34:39Z" uid="2672618" user="AndreyKoshelev" version="3">
+		
+    
+		<member ref="54326822" role="outer" type="way"/>
+		
+    
+		<member ref="54326823" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Παραλία Μαραθονήσι"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:de" v="Marathonisi Strand"/>
+		
+    
+		<tag k="name:en" v="Marathonisi Beach"/>
+		
+    
+		<tag k="name:ru" v="пляж Маратониси"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="34092057" id="543875" timestamp="2015-09-17T20:36:58Z" uid="2672618" user="AndreyKoshelev" version="7">
+		
+    
+		<member ref="266429954" role="outer" type="way"/>
+		
+    
+		<member ref="54327262" role="outer" type="way"/>
+		
+    
+		<member ref="266429955" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Ναυάγιο"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:de" v="Navagio Strand"/>
+		
+    
+		<tag k="name:el" v="Ναυάγιο"/>
+		
+    
+		<tag k="name:en" v="Navagio Beach"/>
+		
+    
+		<tag k="name:ru" v="пляж Кораблекрушения"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="gravel"/>
+		
+    
+		<tag k="tourism" v="attraction"/>
+		
+    
+		<tag k="description" v="Beach with sand/small pebbles (1cm), only reachable by boat; most of the time there is some shadow from the rocks"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="35891116" id="544402" timestamp="2015-12-11T19:00:11Z" uid="653" user="aitolos" version="6">
+		
+    
+		<member ref="363138142" role="outer" type="way"/>
+		
+    
+		<member ref="54427943" role="outer" type="way"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="34843758" id="544419" timestamp="2015-10-24T16:15:18Z" uid="3093838" user="xenofondas" version="6">
+		
+    
+		<member ref="54428906" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Βοϊδοκοιλιά"/>
+		
+    
+		<tag k="name:de" v="Ochsenbauchbucht"/>
+		
+    
+		<tag k="name:el" v="Βοϊδοκοιλιά"/>
+		
+    
+		<tag k="name:en" v="Voidokilia"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="wikipedia" v="en:Voidokilia beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="32539191" id="544439" timestamp="2015-07-10T10:15:47Z" uid="1818060" user="miniwark" version="3">
+		
+    
+		<member ref="310369827" role="outer" type="way"/>
+		
+    
+		<member ref="359780401" role="outer" type="way"/>
+		
+    
+		<member ref="310369786" role="outer" type="way"/>
+		
+    
+		<member ref="54434180" role="outer" type="way"/>
+		
+    
+		<member ref="28213077" role="outer" type="way"/>
+		
+    
+		<member ref="54434185" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Paralia Mavrovouniou"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4337336" id="544464" timestamp="2010-04-05T19:11:07Z" uid="23785" user="greecemapper" version="1">
+		
+    
+		<member ref="39313748" role="outer" type="way"/>
+		
+    
+		<member ref="54435439" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Paralia Selinitsas"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4337336" id="544468" timestamp="2010-04-05T19:12:25Z" uid="23785" user="greecemapper" version="1">
+		
+    
+		<member ref="39313749" role="outer" type="way"/>
+		
+    
+		<member ref="54435484" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Paralia Valtakiou"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="35292418" id="547822" timestamp="2015-11-13T20:03:39Z" uid="692602" user="Kanenas" version="4">
+		
+    
+		<member ref="37197421" role="outer" type="way"/>
+		
+    
+		<member ref="380135398" role="outer" type="way"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4369051" id="548244" timestamp="2010-04-09T00:23:26Z" uid="23785" user="greecemapper" version="1">
+		
+    
+		<member ref="21983010" role="outer" type="way"/>
+		
+    
+		<member ref="54774603" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="13887129" id="548775" timestamp="2012-11-15T20:05:12Z" uid="653" user="aitolos" version="4">
+		
+    
+		<member ref="175494218" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Παραλία Λατούρα"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:de" v="Latoura Strand"/>
+		
+    
+		<tag k="name:el" v="Παραλία Λατούρα"/>
+		
+    
+		<tag k="name:en" v="Latoura Beach"/>
+		
+    
+		<tag k="name:fr" v="Plage de Latoura"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16634724" id="554433" timestamp="2013-06-20T19:29:48Z" uid="160949" user="eric22" version="3">
+		
+    
+		<member ref="55326864" role="outer" type="way"/>
+		
+    
+		<member ref="25975956" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Valtos Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="11865778" id="558503" timestamp="2012-06-11T15:33:46Z" uid="653" user="aitolos" version="2">
+		
+    
+		<member ref="25976831" role="outer" type="way"/>
+		
+    
+		<member ref="55327207" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Lichnos Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="4470604" id="568991" timestamp="2010-04-19T18:20:43Z" uid="23785" user="greecemapper" version="1">
+		
+    
+		<member ref="37348213" role="outer" type="way"/>
+		
+    
+		<member ref="55923533" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Lagoudi"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39876667" id="1737473" timestamp="2016-06-08T05:41:38Z" uid="4083056" user="Namele$$" version="7">
+		
+    
+		<member ref="128728030" role="outer" type="way"/>
+		
+    
+		<member ref="128728033" role="outer" type="way"/>
+		
+    
+		<tag k="boundary" v="protected_area"/>
+		
+    
+		<tag k="int_name" v="Dafni Beach"/>
+		
+    
+		<tag k="name" v="Dafni Beach"/>
+		
+    
+		<tag k="name:ru" v="пляж Дафни"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="protect_class" v="4"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9201038" id="1737961" timestamp="2011-09-03T14:31:10Z" uid="329453" user="Biff" version="1">
+		
+    
+		<member ref="128764832" role="outer" type="way"/>
+		
+    
+		<member ref="128764830" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="31156740" id="1738007" timestamp="2015-05-14T23:21:56Z" uid="2672618" user="AndreyKoshelev" version="3">
+		
+    
+		<member ref="128772294" role="outer" type="way"/>
+		
+    
+		<member ref="128772296" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Σεκάνια"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="access" v="no"/>
+		
+    
+		<tag k="name:en" v="Segania"/>
+		
+    
+		<tag k="name:ru" v="пляж Сегания"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="boundary" v="protected_area"/>
+		
+    
+		<tag k="int_name" v="Segania"/>
+		
+    
+		<tag k="protect_class" v="4"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="31156740" id="1738541" timestamp="2015-05-14T23:21:56Z" uid="2672618" user="AndreyKoshelev" version="3">
+		
+    
+		<member ref="79226487" role="outer" type="way"/>
+		
+    
+		<member ref="128826055" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Παραλία Γέρακας"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:ru" v="пляж Геракас"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="boundary" v="protected_area"/>
+		
+    
+		<tag k="int_name" v="Gerakas Beach"/>
+		
+    
+		<tag k="description" v="Sand (western part pebbles), little shadow, some sunbed rental;Breeding grounds for turtles - thus there are some restrictions for visitors"/>
+		
+    
+		<tag k="protect_class" v="4"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="13703445" id="1751267" timestamp="2012-10-31T19:20:00Z" uid="497621" user="NikosSkouteris" version="3">
+		
+    
+		<member ref="129832711" role="outer" type="way"/>
+		
+    
+		<member ref="129832712" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Παραλία Σχινιά"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9661469" id="1808433" timestamp="2011-10-26T15:57:53Z" uid="121415" user="edvac" version="3">
+		
+    
+		<member ref="134794684" role="outer" type="way"/>
+		
+    
+		<member ref="134782015" role="outer" type="way"/>
+		
+    
+		<member ref="134782036" role="outer" type="way"/>
+		
+    
+		<member ref="134782034" role="outer" type="way"/>
+		
+    
+		<member ref="134782027" role="outer" type="way"/>
+		
+    
+		<member ref="134782041" role="outer" type="way"/>
+		
+    
+		<member ref="134782019" role="outer" type="way"/>
+		
+    
+		<member ref="134562867" role="outer" type="way"/>
+		
+    
+		<member ref="134562862" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9694987" id="1821033" timestamp="2011-10-30T15:43:54Z" uid="121415" user="edvac" version="1">
+		
+    
+		<member ref="135281493" role="outer" type="way"/>
+		
+    
+		<member ref="135281501" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9694987" id="1821034" timestamp="2011-10-30T15:43:54Z" uid="121415" user="edvac" version="1">
+		
+    
+		<member ref="135281451" role="outer" type="way"/>
+		
+    
+		<member ref="135281452" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9694987" id="1821035" timestamp="2011-10-30T15:43:54Z" uid="121415" user="edvac" version="1">
+		
+    
+		<member ref="135281458" role="outer" type="way"/>
+		
+    
+		<member ref="135281511" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9694987" id="1821036" timestamp="2011-10-30T15:43:55Z" uid="121415" user="edvac" version="1">
+		
+    
+		<member ref="135281508" role="outer" type="way"/>
+		
+    
+		<member ref="135281503" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9694987" id="1821037" timestamp="2011-10-30T15:43:55Z" uid="121415" user="edvac" version="1">
+		
+    
+		<member ref="135281517" role="outer" type="way"/>
+		
+    
+		<member ref="135281472" role="outer" type="way"/>
+		
+    
+		<member ref="135281447" role="outer" type="way"/>
+		
+    
+		<member ref="135281455" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9694987" id="1821038" timestamp="2011-10-30T15:43:55Z" uid="121415" user="edvac" version="1">
+		
+    
+		<member ref="135281473" role="outer" type="way"/>
+		
+    
+		<member ref="135281485" role="outer" type="way"/>
+		
+    
+		<member ref="135281449" role="outer" type="way"/>
+		
+    
+		<member ref="135281461" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9694987" id="1821039" timestamp="2011-10-30T15:43:55Z" uid="121415" user="edvac" version="1">
+		
+    
+		<member ref="135281483" role="outer" type="way"/>
+		
+    
+		<member ref="135281494" role="outer" type="way"/>
+		
+    
+		<member ref="135281507" role="outer" type="way"/>
+		
+    
+		<member ref="135281515" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9694987" id="1821040" timestamp="2011-10-30T15:43:56Z" uid="121415" user="edvac" version="1">
+		
+    
+		<member ref="135281498" role="outer" type="way"/>
+		
+    
+		<member ref="134807870" role="outer" type="way"/>
+		
+    
+		<member ref="135281491" role="outer" type="way"/>
+		
+    
+		<member ref="135281513" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9694987" id="1821041" timestamp="2011-10-30T15:43:56Z" uid="121415" user="edvac" version="1">
+		
+    
+		<member ref="135281466" role="outer" type="way"/>
+		
+    
+		<member ref="135281462" role="outer" type="way"/>
+		
+    
+		<member ref="135281467" role="outer" type="way"/>
+		
+    
+		<member ref="135281492" role="outer" type="way"/>
+		
+    
+		<member ref="135281496" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="9695903" id="1821162" timestamp="2011-10-30T17:12:28Z" uid="121415" user="edvac" version="1">
+		
+    
+		<member ref="135294772" role="outer" type="way"/>
+		
+    
+		<member ref="135294782" role="outer" type="way"/>
+		
+    
+		<member ref="135294774" role="outer" type="way"/>
+		
+    
+		<member ref="135294777" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="Bing"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="34525240" id="2124107" timestamp="2015-10-09T09:02:49Z" uid="3297481" user="Latty" version="4">
+		
+    
+		<member ref="158609900" role="outer" type="way"/>
+		
+    
+		<member ref="206211968" role="outer" type="way"/>
+		
+    
+		<member ref="206211933" role="outer" type="way"/>
+		
+    
+		<member ref="206212019" role="outer" type="way"/>
+		
+    
+		<member ref="206211980" role="outer" type="way"/>
+		
+    
+		<member ref="206212026" role="outer" type="way"/>
+		
+    
+		<member ref="158609895" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:en" v="Golden Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="fine_sand"/>
+		
+    
+		<tag k="int_name" v="Chrysi Akti"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="11550027" id="2176599" timestamp="2012-05-09T14:58:22Z" uid="208052" user="jokien" version="1">
+		
+    
+		<member ref="162864658" role="outer" type="way"/>
+		
+    
+		<member ref="162864660" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="12776213" id="2361792" timestamp="2012-08-18T19:12:13Z" uid="653" user="aitolos" version="1">
+		
+    
+		<member ref="176701064" role="outer" type="way"/>
+		
+    
+		<member ref="176701065" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="12776213" id="2361827" timestamp="2012-08-18T19:23:51Z" uid="653" user="aitolos" version="1">
+		
+    
+		<member ref="176702971" role="outer" type="way"/>
+		
+    
+		<member ref="176702969" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39385635" id="2455021" timestamp="2016-05-17T19:46:15Z" uid="3937745" user="MARTHA PAP" version="2">
+		
+    
+		<member ref="184330210" role="outer" type="way"/>
+		
+    
+		<member ref="184330211" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Kokkini Ammos (Red Sand) Beach"/>
+		
+    
+		<tag k="name" v="Παραλία Κόκκινη Άμμος"/>
+		
+    
+		<tag k="name:en" v="Kokkini Ammos (Red Sand) Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="34525458" id="2752933" timestamp="2015-10-09T09:16:16Z" uid="3297481" user="Latty" version="2">
+		
+    
+		<member ref="205073094" role="outer" type="way"/>
+		
+    
+		<member ref="205073086" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Γλυφάδα"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:en" v="Glyfada beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="14994865" id="2752934" timestamp="2013-02-11T14:34:44Z" uid="208052" user="jokien" version="1">
+		
+    
+		<member ref="205073089" role="outer" type="way"/>
+		
+    
+		<member ref="205073084" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16394154" id="2753339" timestamp="2013-06-02T17:29:05Z" uid="653" user="aitolos" version="4">
+		
+    
+		<member ref="224133719" role="outer" type="way"/>
+		
+    
+		<member ref="205098396" role="outer" type="way"/>
+		
+    
+		<member ref="224133720" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="34525790" id="2753340" timestamp="2015-10-09T09:34:12Z" uid="3297481" user="Latty" version="2">
+		
+    
+		<member ref="205098365" role="outer" type="way"/>
+		
+    
+		<member ref="205098349" role="outer" type="way"/>
+		
+    
+		<member ref="205098354" role="outer" type="way"/>
+		
+    
+		<member ref="205097876" role="outer" type="way"/>
+		
+    
+		<member ref="205098379" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Potos / San Antonio Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="access" v="yes"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15044954" id="2763184" timestamp="2013-02-15T21:36:50Z" uid="208052" user="jokien" version="1">
+		
+    
+		<member ref="205689969" role="outer" type="way"/>
+		
+    
+		<member ref="205689968" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15044954" id="2763203" timestamp="2013-02-15T22:50:34Z" uid="208052" user="jokien" version="2">
+		
+    
+		<member ref="205692908" role="outer" type="way"/>
+		
+    
+		<member ref="205692917" role="outer" type="way"/>
+		
+    
+		<member ref="205698141" role="outer" type="way"/>
+		
+    
+		<member ref="205698192" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15065214" id="2766866" timestamp="2013-02-17T15:38:38Z" uid="208052" user="jokien" version="1">
+		
+    
+		<member ref="205952700" role="outer" type="way"/>
+		
+    
+		<member ref="205952710" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15065214" id="2766867" timestamp="2013-02-17T15:38:38Z" uid="208052" user="jokien" version="1">
+		
+    
+		<member ref="205952686" role="outer" type="way"/>
+		
+    
+		<member ref="205952713" role="outer" type="way"/>
+		
+    
+		<member ref="205952741" role="outer" type="way"/>
+		
+    
+		<member ref="205952734" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15065214" id="2766868" timestamp="2013-02-17T15:38:38Z" uid="208052" user="jokien" version="1">
+		
+    
+		<member ref="205952718" role="outer" type="way"/>
+		
+    
+		<member ref="205952683" role="outer" type="way"/>
+		
+    
+		<member ref="205952716" role="outer" type="way"/>
+		
+    
+		<member ref="205952697" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15085227" id="2770871" timestamp="2013-02-19T05:48:13Z" uid="208052" user="jokien" version="1">
+		
+    
+		<member ref="206211978" role="outer" type="way"/>
+		
+    
+		<member ref="206212009" role="outer" type="way"/>
+		
+    
+		<member ref="206211986" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15085227" id="2770873" timestamp="2013-02-19T05:48:13Z" uid="208052" user="jokien" version="1">
+		
+    
+		<member ref="206211956" role="outer" type="way"/>
+		
+    
+		<member ref="206211994" role="outer" type="way"/>
+		
+    
+		<member ref="206212008" role="outer" type="way"/>
+		
+    
+		<member ref="206212007" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15087917" id="2771537" timestamp="2013-02-19T11:26:08Z" uid="208052" user="jokien" version="1">
+		
+    
+		<member ref="206241984" role="outer" type="way"/>
+		
+    
+		<member ref="206241964" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="33546094" id="2832210" timestamp="2015-08-24T13:26:51Z" uid="653" user="aitolos" version="2">
+		
+    
+		<member ref="211274668" role="outer" type="way"/>
+		
+    
+		<member ref="211274645" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Βαθύ"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:en" v="Vathi"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15579040" id="2855957" timestamp="2013-04-02T09:25:37Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215031572" role="outer" type="way"/>
+		
+    
+		<member ref="215031584" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15579040" id="2855959" timestamp="2013-04-02T09:25:37Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215031569" role="outer" type="way"/>
+		
+    
+		<member ref="215031588" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15579040" id="2855960" timestamp="2013-04-02T09:25:37Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215031563" role="outer" type="way"/>
+		
+    
+		<member ref="215031582" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15579040" id="2855962" timestamp="2013-04-02T09:25:37Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215031567" role="outer" type="way"/>
+		
+    
+		<member ref="215031581" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15579040" id="2855963" timestamp="2013-04-02T09:25:37Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215031574" role="outer" type="way"/>
+		
+    
+		<member ref="215031589" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15579880" id="2856088" timestamp="2013-04-02T10:51:28Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215043918" role="outer" type="way"/>
+		
+    
+		<member ref="215043932" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15579880" id="2856090" timestamp="2013-04-02T10:51:29Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215043916" role="outer" type="way"/>
+		
+    
+		<member ref="215043928" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="35629874" id="2856091" timestamp="2015-11-28T15:06:35Z" uid="23785" user="greecemapper" version="3">
+		
+    
+		<member ref="214899402" role="outer" type="way"/>
+		
+    
+		<member ref="215043930" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Plakes"/>
+		
+    
+		<tag k="name:en" v="Plakes"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857288" timestamp="2013-04-02T22:49:20Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134719" role="outer" type="way"/>
+		
+    
+		<member ref="215134774" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857289" timestamp="2013-04-02T22:49:20Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134720" role="outer" type="way"/>
+		
+    
+		<member ref="215134771" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15589178" id="2857290" timestamp="2013-04-03T02:53:11Z" uid="692602" user="Kanenas" version="2">
+		
+    
+		<member ref="215134729" role="outer" type="way"/>
+		
+    
+		<member ref="215134766" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Ψάθη"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Ψάθη"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857291" timestamp="2013-04-02T22:49:20Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134717" role="outer" type="way"/>
+		
+    
+		<member ref="215134775" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857292" timestamp="2013-04-02T22:49:20Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134791" role="outer" type="way"/>
+		
+    
+		<member ref="215134772" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15589178" id="2857293" timestamp="2013-04-03T02:53:11Z" uid="692602" user="Kanenas" version="2">
+		
+    
+		<member ref="215134762" role="outer" type="way"/>
+		
+    
+		<member ref="215134745" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Ψάθη"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Ψάθη"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857294" timestamp="2013-04-02T22:49:20Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134792" role="outer" type="way"/>
+		
+    
+		<member ref="215134770" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857295" timestamp="2013-04-02T22:49:20Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134749" role="outer" type="way"/>
+		
+    
+		<member ref="215134786" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857296" timestamp="2013-04-02T22:49:20Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134787" role="outer" type="way"/>
+		
+    
+		<member ref="215134773" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857297" timestamp="2013-04-02T22:49:20Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134747" role="outer" type="way"/>
+		
+    
+		<member ref="215134776" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857298" timestamp="2013-04-02T22:49:21Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134778" role="outer" type="way"/>
+		
+    
+		<member ref="215134750" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857299" timestamp="2013-04-02T22:49:21Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134783" role="outer" type="way"/>
+		
+    
+		<member ref="215134753" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857300" timestamp="2013-04-02T22:49:21Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134793" role="outer" type="way"/>
+		
+    
+		<member ref="215134782" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15587985" id="2857301" timestamp="2013-04-02T22:49:21Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215134723" role="outer" type="way"/>
+		
+    
+		<member ref="215134788" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15588605" id="2857378" timestamp="2013-04-03T00:34:55Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215140502" role="outer" type="way"/>
+		
+    
+		<member ref="215140493" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15598134" id="2858669" timestamp="2013-04-03T18:02:53Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215295745" role="outer" type="way"/>
+		
+    
+		<member ref="215295744" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Βαλμάς"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Βαλμάς"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="15598134" id="2858670" timestamp="2013-04-03T18:02:53Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="215295749" role="outer" type="way"/>
+		
+    
+		<member ref="215295746" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Κολιτσάνι"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Κολιτσάνι"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16295406" id="2960372" timestamp="2013-05-26T15:38:17Z" uid="31231" user="Andre68" version="1">
+		
+    
+		<member ref="130301541" role="outer" type="way"/>
+		
+    
+		<member ref="223153492" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="19189796" id="2997732" timestamp="2013-11-30T06:35:12Z" uid="692602" user="Kanenas" version="2">
+		
+    
+		<member ref="225593274" role="outer" type="way"/>
+		
+    
+		<member ref="225593276" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Μονολίθι"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Μονολίθι"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="wikipedia" v="el:Μονολίθι"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16556517" id="2999590" timestamp="2013-06-14T21:39:50Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="225736770" role="outer" type="way"/>
+		
+    
+		<member ref="225736738" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="27958577" id="2999591" timestamp="2015-01-06T15:34:45Z" uid="692602" user="Kanenas" version="2">
+		
+    
+		<member ref="225736718" role="outer" type="way"/>
+		
+    
+		<member ref="132155528" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Όρμος του Οδυσσέα"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Όρμος του Οδυσσέα"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16556517" id="2999592" timestamp="2013-06-14T21:39:51Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="225736742" role="outer" type="way"/>
+		
+    
+		<member ref="132147425" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16556517" id="2999593" timestamp="2013-06-14T21:39:51Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="225736758" role="outer" type="way"/>
+		
+    
+		<member ref="225736733" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16556517" id="2999594" timestamp="2013-06-14T21:39:51Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="225736768" role="outer" type="way"/>
+		
+    
+		<member ref="225736741" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16556517" id="2999595" timestamp="2013-06-14T21:39:51Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="225736751" role="outer" type="way"/>
+		
+    
+		<member ref="225736734" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16556517" id="2999596" timestamp="2013-06-14T21:39:51Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="225736753" role="outer" type="way"/>
+		
+    
+		<member ref="225736725" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18354017" id="2999597" timestamp="2013-10-14T17:02:43Z" uid="692602" user="Kanenas" version="2">
+		
+    
+		<member ref="225736717" role="outer" type="way"/>
+		
+    
+		<member ref="242089055" role="outer" type="way"/>
+		
+    
+		<member ref="242089057" role="outer" type="way"/>
+		
+    
+		<member ref="225736731" role="outer" type="way"/>
+		
+    
+		<member ref="225736722" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16556517" id="2999598" timestamp="2013-06-14T21:39:51Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="225736736" role="outer" type="way"/>
+		
+    
+		<member ref="225736720" role="outer" type="way"/>
+		
+    
+		<member ref="10135293" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39385635" id="3004546" timestamp="2016-05-17T19:46:16Z" uid="3937745" user="MARTHA PAP" version="2">
+		
+    
+		<member ref="225976304" role="outer" type="way"/>
+		
+    
+		<member ref="225976309" role="outer" type="way"/>
+		
+    
+		<member ref="171382125" role="outer" type="way"/>
+		
+    
+		<member ref="225976315" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Kathara beach"/>
+		
+    
+		<tag k="name" v="Παραλία Καθαρά"/>
+		
+    
+		<tag k="name:en" v="Kathara beach"/>
+		
+    
+		<tag k="name:ru" v="пляж Катара"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39385635" id="3004547" timestamp="2016-05-17T19:46:16Z" uid="3937745" user="MARTHA PAP" version="7">
+		
+    
+		<member ref="4517711" role="outer" type="way"/>
+		
+    
+		<member ref="225976302" role="outer" type="way"/>
+		
+    
+		<member ref="225976312" role="outer" type="way"/>
+		
+    
+		<member ref="229702578" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Faliraki beach"/>
+		
+    
+		<tag k="name" v="Παραλία Φαληράκι"/>
+		
+    
+		<tag k="name:en" v="Faliraki beach"/>
+		
+    
+		<tag k="name:ru" v="пляж Фалираки"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39417243" id="3004574" timestamp="2016-05-19T07:43:27Z" uid="3937745" user="MARTHA PAP" version="4">
+		
+    
+		<member ref="225978608" role="outer" type="way"/>
+		
+    
+		<member ref="168674363" role="outer" type="way"/>
+		
+    
+		<tag k="alt_name" v="Faliraki Nudist Beach"/>
+		
+    
+		<tag k="contact:email" v="info@faliraki-nudist.gr"/>
+		
+    
+		<tag k="int_name" v="Mantomata beach"/>
+		
+    
+		<tag k="name" v="Παραλία Μαντόματα"/>
+		
+    
+		<tag k="name:en" v="Mantomata beach"/>
+		
+    
+		<tag k="name:ru" v="нудисткий пляж Фалираки"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="nudism" v="yes"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="url" v="http://www.naturistholiday.info/Greece/1701/Faliraki_Beach.aspx"/>
+		
+    
+		<tag k="website" v="http://www.faliraki-nudist.gr/"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39384182" id="3017092" timestamp="2016-05-17T18:47:18Z" uid="3937745" user="MARTHA PAP" version="5">
+		
+    
+		<member ref="227026493" role="outer" type="way"/>
+		
+    
+		<member ref="227026504" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Glystra Beach"/>
+		
+    
+		<tag k="name" v="Παραλία Γλύστρα"/>
+		
+    
+		<tag k="name:en" v="Glystra Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="28869737" id="3018860" timestamp="2015-02-15T18:49:17Z" uid="692602" user="Kanenas" version="4">
+		
+    
+		<member ref="238615750" role="outer" type="way"/>
+		
+    
+		<member ref="227160026" role="outer" type="way"/>
+		
+    
+		<member ref="227160033" role="outer" type="way"/>
+		
+    
+		<member ref="238615744" role="outer" type="way"/>
+		
+    
+		<member ref="328443624" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16785730" id="3058216" timestamp="2013-07-02T02:37:01Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="203011531" role="outer" type="way"/>
+		
+    
+		<member ref="228325937" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16785730" id="3058217" timestamp="2013-07-02T02:37:02Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="203014300" role="outer" type="way"/>
+		
+    
+		<member ref="228325938" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16785730" id="3058218" timestamp="2013-07-02T02:37:02Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="228325942" role="outer" type="way"/>
+		
+    
+		<member ref="203014298" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16785730" id="3058219" timestamp="2013-07-02T02:37:02Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="203014299" role="outer" type="way"/>
+		
+    
+		<member ref="228325939" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="30506109" id="3076325" timestamp="2015-04-26T15:30:41Z" uid="653" user="aitolos" version="3">
+		
+    
+		<member ref="229701611" role="outer" type="way"/>
+		
+    
+		<member ref="229447599" role="outer" type="way"/>
+		
+    
+		<member ref="229447598" role="outer" type="way"/>
+		
+    
+		<member ref="229701607" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Faliraki A"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:ru" v="пляж Фалираки A"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="opening_hours" v="Mo-Su 10:00-17:00"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39385635" id="3079737" timestamp="2016-05-17T19:46:16Z" uid="3937745" user="MARTHA PAP" version="3">
+		
+    
+		<member ref="225976316" role="outer" type="way"/>
+		
+    
+		<member ref="229701611" role="outer" type="way"/>
+		
+    
+		<member ref="229701609" role="outer" type="way"/>
+		
+    
+		<member ref="225976306" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Katafygio beach"/>
+		
+    
+		<tag k="name" v="Παραλία Καταφύγιο"/>
+		
+    
+		<tag k="name:en" v="Katafygio beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="16929260" id="3079751" timestamp="2013-07-12T18:39:09Z" uid="143266" user="Sergey Astakhov" version="1">
+		
+    
+		<member ref="229447604" role="outer" type="way"/>
+		
+    
+		<member ref="229702578" role="outer" type="way"/>
+		
+    
+		<member ref="229702580" role="outer" type="way"/>
+		
+    
+		<member ref="229447598" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Faliraki B"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="leisure" v="beach_resort"/>
+		
+    
+		<tag k="name:ru" v="пляж Фалираки B"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="opening_hours" v="Mo-Su 10:00-17:00"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="17048996" id="3095563" timestamp="2013-07-22T13:50:35Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="230849582" role="outer" type="way"/>
+		
+    
+		<member ref="230849583" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Μπέλα Βράκα"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Μπέλα Βράκα"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="17048996" id="3095564" timestamp="2013-07-22T13:50:36Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="230849579" role="outer" type="way"/>
+		
+    
+		<member ref="230849584" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Μπέλα Βράκα"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Μπέλα Βράκα"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39384182" id="3146408" timestamp="2016-05-17T18:47:18Z" uid="3937745" user="MARTHA PAP" version="2">
+		
+    
+		<member ref="227488207" role="outer" type="way"/>
+		
+    
+		<member ref="233685221" role="outer" type="way"/>
+		
+    
+		<member ref="233685218" role="outer" type="way"/>
+		
+    
+		<member ref="233685224" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Plakia Beach"/>
+		
+    
+		<tag k="name" v="Παραλία Πλακιά"/>
+		
+    
+		<tag k="name:en" v="Plakia Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39385635" id="3146409" timestamp="2016-05-17T19:46:13Z" uid="3937745" user="MARTHA PAP" version="2">
+		
+    
+		<member ref="233685223" role="outer" type="way"/>
+		
+    
+		<member ref="233685220" role="outer" type="way"/>
+		
+    
+		<member ref="227488226" role="outer" type="way"/>
+		
+    
+		<member ref="233685214" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="St. Thomas Beach"/>
+		
+    
+		<tag k="name" v="Παραλία Αγ. Θωμά"/>
+		
+    
+		<tag k="name:en" v="St. Thomas Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="17611344" id="3176012" timestamp="2013-08-31T23:07:29Z" uid="615749" user="mtraveller" version="1">
+		
+    
+		<member ref="236017501" role="outer" type="way"/>
+		
+    
+		<member ref="173067961" role="outer" type="way"/>
+		
+    
+		<member ref="236017502" role="outer" type="way"/>
+		
+    
+		<member ref="236017498" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Αγία Κυριακή"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:en" v="Agia Kiriaki Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="int_name" v="Agia Kyriaki"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="17655022" id="3181465" timestamp="2013-09-03T14:27:47Z" uid="615749" user="mtraveller" version="1">
+		
+    
+		<member ref="236418125" role="outer" type="way"/>
+		
+    
+		<member ref="236418116" role="outer" type="way"/>
+		
+    
+		<member ref="236418122" role="outer" type="way"/>
+		
+    
+		<member ref="236418111" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Παλαιοχώρι"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:en" v="Palaiochori Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="int_name" v="Palaiochori"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="36412191" id="3181808" timestamp="2016-01-06T19:59:36Z" uid="615749" user="mtraveller" version="2">
+		
+    
+		<member ref="236458191" role="outer" type="way"/>
+		
+    
+		<member ref="236458188" role="outer" type="way"/>
+		
+    
+		<member ref="236458183" role="outer" type="way"/>
+		
+    
+		<member ref="236458190" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Fyriplaka"/>
+		
+    
+		<tag k="name" v="Φυριπλάκα"/>
+		
+    
+		<tag k="name:el" v="Φυριπλάκα"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="17723235" id="3188974" timestamp="2013-09-07T20:05:11Z" uid="615749" user="mtraveller" version="1">
+		
+    
+		<member ref="237034059" role="outer" type="way"/>
+		
+    
+		<member ref="237034035" role="outer" type="way"/>
+		
+    
+		<member ref="237034056" role="outer" type="way"/>
+		
+    
+		<member ref="237034039" role="outer" type="way"/>
+		
+    
+		<member ref="237034055" role="outer" type="way"/>
+		
+    
+		<member ref="237034038" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Προβατάς"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:en" v="Provatas Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="int_name" v="Provatas"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="17829121" id="3205880" timestamp="2013-09-14T08:29:14Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="237901582" role="outer" type="way"/>
+		
+    
+		<member ref="237901584" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39384182" id="3210977" timestamp="2016-05-17T18:47:18Z" uid="3937745" user="MARTHA PAP" version="3">
+		
+    
+		<member ref="227488220" role="outer" type="way"/>
+		
+    
+		<member ref="238249186" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Lardos beach"/>
+		
+    
+		<tag k="leisure" v="beach_resort"/>
+		
+    
+		<tag k="name" v="Παραλία Λάρδου"/>
+		
+    
+		<tag k="name:en" v="Lardos beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22845087" id="3211985" timestamp="2014-06-10T08:28:57Z" uid="22190" user="JyriK" version="2">
+		
+    
+		<member ref="238305799" role="outer" type="way"/>
+		
+    
+		<member ref="238305797" role="outer" type="way"/>
+		
+    
+		<member ref="227488229" role="outer" type="way"/>
+		
+    
+		<member ref="238305794" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39384182" id="3212896" timestamp="2016-05-17T18:47:17Z" uid="3937745" user="MARTHA PAP" version="3">
+		
+    
+		<member ref="227489186" role="outer" type="way"/>
+		
+    
+		<member ref="238325673" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Kokkinogia Beach"/>
+		
+    
+		<tag k="leisure" v="beach_resort"/>
+		
+    
+		<tag k="name" v="Παραλία Κοκκινόγεια"/>
+		
+    
+		<tag k="name:en" v="Kokkinogia Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39384182" id="3212897" timestamp="2016-05-17T18:47:17Z" uid="3937745" user="MARTHA PAP" version="5">
+		
+    
+		<member ref="238325677" role="outer" type="way"/>
+		
+    
+		<member ref="238325668" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Kardamis Beach"/>
+		
+    
+		<tag k="name" v="Παραλία Καρδάμης"/>
+		
+    
+		<tag k="name:en" v="Kardamis Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="17927989" id="3216648" timestamp="2013-09-19T18:49:53Z" uid="143266" user="Sergey Astakhov" version="1">
+		
+    
+		<member ref="238615734" role="outer" type="way"/>
+		
+    
+		<member ref="238615753" role="outer" type="way"/>
+		
+    
+		<member ref="238615750" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="leisure" v="beach_resort"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="supervised" v="yes"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39386403" id="3228355" timestamp="2016-05-17T20:30:08Z" uid="3937745" user="MARTHA PAP" version="2">
+		
+    
+		<member ref="239363359" role="outer" type="way"/>
+		
+    
+		<member ref="239363363" role="outer" type="way"/>
+		
+    
+		<tag k="int_name" v="Kerameni Beach"/>
+		
+    
+		<tag k="name" v="Παραλία Κεραμενή"/>
+		
+    
+		<tag k="name:en" v="Kerameni Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="23166767" id="3242808" timestamp="2014-06-25T21:38:10Z" uid="516143" user="Giatros" version="3">
+		
+    
+		<member ref="244582462" role="outer" type="way"/>
+		
+    
+		<member ref="244582461" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Platana Beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18234223" id="3251133" timestamp="2013-10-07T18:01:11Z" uid="19261" user="QEDquid" version="2">
+		
+    
+		<member ref="240929369" role="outer" type="way"/>
+		
+    
+		<member ref="240929367" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18234223" id="3251134" timestamp="2013-10-07T18:01:12Z" uid="19261" user="QEDquid" version="2">
+		
+    
+		<member ref="240929386" role="outer" type="way"/>
+		
+    
+		<member ref="240929383" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18313883" id="3262285" timestamp="2013-10-12T12:31:11Z" uid="447581" user="Inwind" version="1">
+		
+    
+		<member ref="207351926" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18675218" id="3304459" timestamp="2013-11-02T13:49:05Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="244421201" role="outer" type="way"/>
+		
+    
+		<member ref="244421203" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Νας"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Νας"/>
+		
+    
+		<tag k="name:en" v="Nas"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18677710" id="3304897" timestamp="2013-11-02T16:29:56Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="171901114" role="outer" type="way"/>
+		
+    
+		<member ref="244437326" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18677710" id="3304898" timestamp="2013-11-02T16:29:56Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="171901112" role="outer" type="way"/>
+		
+    
+		<member ref="244437330" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18696950" id="3307006" timestamp="2013-11-03T16:18:35Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="244582464" role="outer" type="way"/>
+		
+    
+		<member ref="244582455" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Κυριακού"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Κυριακού"/>
+		
+    
+		<tag k="name:en" v="Kyriakou"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18696950" id="3307007" timestamp="2013-11-03T16:18:35Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="244582458" role="outer" type="way"/>
+		
+    
+		<member ref="244582460" role="outer" type="way"/>
+		
+    
+		<member ref="52725880" role="outer" type="way"/>
+		
+    
+		<member ref="244582457" role="outer" type="way"/>
+		
+    
+		<tag k="url" v="http://www.naturistholiday.info/Greece/598/Tsamadou_Beach.aspx"/>
+		
+    
+		<tag k="name" v="Τσαμαδού"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="nudism" v="yes"/>
+		
+    
+		<tag k="name:el" v="Τσαμαδού"/>
+		
+    
+		<tag k="name:en" v="Tsamadou"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="website" v="http://www.samos-beaches.com/tsamadou.htm"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="18696950" id="3307008" timestamp="2013-11-03T16:18:36Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="132800968" role="outer" type="way"/>
+		
+    
+		<member ref="244582456" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="34703291" id="3351893" timestamp="2015-10-17T23:56:11Z" uid="692602" user="Kanenas" version="3">
+		
+    
+		<member ref="249191030" role="outer" type="way"/>
+		
+    
+		<member ref="249191032" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="21125096" id="3579140" timestamp="2014-03-15T21:30:06Z" uid="1016290" user="Amaroussi" version="2">
+		
+    
+		<member ref="266431040" role="outer" type="way"/>
+		
+    
+		<member ref="266431042" role="outer" type="way"/>
+		
+    
+		<member ref="266431200" role="outer" type="way"/>
+		
+    
+		<member ref="266431199" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22217629" id="3727053" timestamp="2014-05-08T19:56:59Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="71198411" role="outer" type="way"/>
+		
+    
+		<member ref="280332302" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="ktimatologio aerial pictures"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22217629" id="3727054" timestamp="2014-05-08T19:57:00Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="71176700" role="outer" type="way"/>
+		
+    
+		<member ref="280332300" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="ktimatologio aerial pictures"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22217629" id="3727055" timestamp="2014-05-08T19:57:00Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="71175647" role="outer" type="way"/>
+		
+    
+		<member ref="280332303" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="ktimatologio aerial pictures"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22217629" id="3727056" timestamp="2014-05-08T19:57:00Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="71177122" role="outer" type="way"/>
+		
+    
+		<member ref="280332296" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="ktimatologio aerial pictures"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22217629" id="3727057" timestamp="2014-05-08T19:57:00Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="71175646" role="outer" type="way"/>
+		
+    
+		<member ref="280332295" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="ktimatologio aerial pictures"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22217629" id="3727058" timestamp="2014-05-08T19:57:00Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="71198412" role="outer" type="way"/>
+		
+    
+		<member ref="280332299" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="source" v="ktimatologio aerial pictures"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22911063" id="3818756" timestamp="2014-06-13T15:37:34Z" uid="143266" user="Sergey Astakhov" version="1">
+		
+    
+		<member ref="287894280" role="outer" type="way"/>
+		
+    
+		<member ref="287894277" role="outer" type="way"/>
+		
+    
+		<member ref="287894282" role="outer" type="way"/>
+		
+    
+		<member ref="287894287" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="leisure" v="beach_resort"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22911489" id="3818808" timestamp="2014-06-13T16:01:53Z" uid="143266" user="Sergey Astakhov" version="1">
+		
+    
+		<member ref="287897460" role="outer" type="way"/>
+		
+    
+		<member ref="287897462" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="leisure" v="beach_resort"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22911489" id="3818809" timestamp="2014-06-13T16:01:54Z" uid="143266" user="Sergey Astakhov" version="1">
+		
+    
+		<member ref="287897458" role="outer" type="way"/>
+		
+    
+		<member ref="287897459" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="leisure" v="beach_resort"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="22912245" id="3818867" timestamp="2014-06-13T16:46:07Z" uid="143266" user="Sergey Astakhov" version="1">
+		
+    
+		<member ref="287901811" role="outer" type="way"/>
+		
+    
+		<member ref="287897461" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="leisure" v="beach_resort"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="35292418" id="3902279" timestamp="2015-11-13T20:03:39Z" uid="692602" user="Kanenas" version="3">
+		
+    
+		<member ref="293704375" role="outer" type="way"/>
+		
+    
+		<member ref="373956096" role="outer" type="way"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="35292418" id="3902280" timestamp="2015-11-13T20:03:39Z" uid="692602" user="Kanenas" version="3">
+		
+    
+		<member ref="8891985" role="outer" type="way"/>
+		
+    
+		<member ref="373956139" role="outer" type="way"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="25545204" id="4052260" timestamp="2014-09-19T16:51:17Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="304111895" role="outer" type="way"/>
+		
+    
+		<member ref="300993690" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Αγκάλη"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Αγκάλη"/>
+		
+    
+		<tag k="name:en" v="Angali"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="25545204" id="4052261" timestamp="2014-09-19T16:51:17Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="304111883" role="outer" type="way"/>
+		
+    
+		<member ref="304111890" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Κάτεργο"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Κάτεργο"/>
+		
+    
+		<tag k="name:en" v="Katergo"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="29829380" id="4052262" timestamp="2015-03-29T15:30:41Z" uid="521261" user="GeorgeKM" version="2">
+		
+    
+		<member ref="304111877" role="outer" type="way"/>
+		
+    
+		<member ref="304111878" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Λιβάδι"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="int_name" v="Livadi"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="25545204" id="4052263" timestamp="2014-09-19T16:51:18Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="304111888" role="outer" type="way"/>
+		
+    
+		<member ref="304111889" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Πουντάκι"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Πουντάκι"/>
+		
+    
+		<tag k="name:en" v="Pountaki"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="25545204" id="4052264" timestamp="2014-09-19T16:51:18Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="304111894" role="outer" type="way"/>
+		
+    
+		<member ref="304111896" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Βάρδια"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Βάρδια"/>
+		
+    
+		<tag k="name:en" v="Vardia"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="25614657" id="4060224" timestamp="2014-09-22T22:51:28Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="304604387" role="outer" type="way"/>
+		
+    
+		<member ref="37998133" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="28370717" id="4513948" timestamp="2015-01-24T12:03:18Z" uid="2230379" user="jo_osm" version="1">
+		
+    
+		<member ref="323974535" role="outer" type="way"/>
+		
+    
+		<member ref="323974541" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="28370717" id="4513949" timestamp="2015-01-24T12:03:18Z" uid="2230379" user="jo_osm" version="1">
+		
+    
+		<member ref="323974536" role="outer" type="way"/>
+		
+    
+		<member ref="323974542" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="39385635" id="5140017" timestamp="2016-05-17T19:46:13Z" uid="3937745" user="MARTHA PAP" version="2">
+		
+    
+		<member ref="168674372" role="outer" type="way"/>
+		
+    
+		<member ref="168674364" role="outer" type="way"/>
+		
+    
+		<tag k="access" v="yes"/>
+		
+    
+		<tag k="description" v="Favorite beach for local residents. The sea deepens slowly and is therefore often used by families. It has umbrellas, deckchairs and canteens."/>
+		
+    
+		<tag k="int_name" v="Vlycha Beach"/>
+		
+    
+		<tag k="name" v="Παραλία Βλυχά"/>
+		
+    
+		<tag k="name:en" v="Vlycha Beach"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="nudism" v="no;permissive"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="url" v="http://www.naturistholiday.info/Greece/1702/Kalathos_Beach.aspx"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="31222743" id="5148471" timestamp="2015-05-17T10:31:54Z" uid="599697" user="agsh" version="1">
+		
+    
+		<member ref="345683982" role="outer" type="way"/>
+		
+    
+		<member ref="345683983" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="35326159" id="5240281" timestamp="2015-11-15T12:02:32Z" uid="692602" user="Kanenas" version="3">
+		
+    
+		<member ref="351193287" role="outer" type="way"/>
+		
+    
+		<member ref="380374921" role="outer" type="way"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="32233914" id="5322530" timestamp="2015-06-26T22:17:46Z" uid="243889" user="anst" version="1">
+		
+    
+		<member ref="82679767" role="outer" type="way"/>
+		
+    
+		<member ref="356673827" role="outer" type="way"/>
+		
+    
+		<member ref="356673823" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="32950597" id="5399048" timestamp="2015-07-29T09:15:31Z" uid="225559" user="TZorn" version="1">
+		
+    
+		<member ref="280299360" role="outer" type="way"/>
+		
+    
+		<member ref="362911822" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="33377680" id="5443746" timestamp="2015-08-16T20:37:48Z" uid="345356" user="stavrosPamfila" version="1">
+		
+    
+		<member ref="253381353" role="outer" type="way"/>
+		
+    
+		<member ref="366034046" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="surface" v="sand"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="33415930" id="5447910" timestamp="2015-08-18T14:01:04Z" uid="615749" user="mtraveller" version="1">
+		
+    
+		<member ref="366320099" role="outer" type="way"/>
+		
+    
+		<member ref="366320115" role="outer" type="way"/>
+		
+    
+		<member ref="366320129" role="outer" type="way"/>
+		
+    
+		<member ref="366320101" role="outer" type="way"/>
+		
+    
+		<tag k="name" v="Φτελιά"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Φτελιά"/>
+		
+    
+		<tag k="name:en" v="Ftelia"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="int_name" v="Ftelia"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="34265521" id="5538554" timestamp="2015-09-26T15:18:00Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="372476371" role="outer" type="way"/>
+		
+    
+		<member ref="372476370" role="outer" type="way"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+    
+		<tag k="name:el" v="Κοχλίδια"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+  
+	</relation>
+	
+  
+	<relation changeset="35325850" id="5664528" timestamp="2015-11-15T11:45:10Z" uid="692602" user="Kanenas" version="1">
+		
+    
+		<member ref="371575335" role="outer" type="way"/>
+		
+    
+		<member ref="380373725" role="outer" type="way"/>
+		
+    
+		<tag k="natural" v="beach"/>
+		
+    
+		<tag k="type" v="multipolygon"/>
+		
+  
+	</relation>
+	
+  
+</relations>
