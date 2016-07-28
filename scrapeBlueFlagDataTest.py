@@ -51,30 +51,19 @@ def downloadData():
 		try:
 			reqUrl = 'https://cartocdn-ashbu.global.ssl.fastly.net/fee/api/v1/map/675d9b36608b454b708ae08d5f368344:1468852143726/0/attributes/'
 			with req.urlopen(reqUrl+str(beachId)) as response:
-				html = response.read()
-				html = str(html,'utf-8')
-				html = html[1:-1]
-			csvfile = csv.reader(StringIO(html), delimiter=',')
-			data = list(csvfile)
-			data = data[0]
-			current = []
-			for datum in data:
-				#print(datum)
-				cc = datum.split(':')
-				if cc[0] == "link" and len(cc) == 3:
-					cc = cc[1] + ':' + cc[2]
-				elif len(cc)>1:
-					cc = cc[1]
-				current.append(cc)
-			currentBeach = BlueflagBeach(current)
-			beaches[str(beachId)] = currentBeach.data
+				print(beachId)
+				str_response = response.readall().decode('utf-8')
+				obj = json.loads(str_response)
+				print(json.dumps(obj,sort_keys=True, indent=4))
+			# currentBeach = BlueflagBeach(current)
+			# beaches[str(beachId)] = currentBeach.data
 		except:
 			errorIds.append(beachId)
 	with open('./blueFlagErrorIds.txt', 'w') as errorIdsFile:
 		for item in errorIds:
 			errorIdsFile.write("%s\n" % item)
 	errorIdsFile.close()
-	with open('./blueFlagData.json', 'w') as blueFlagData:
-		json.dump(beaches, blueFlagData, sort_keys=True, indent=4)
-	blueFlagData.close()
+	# with open('./blueFlagData.json', 'w') as blueFlagData:
+	# 	json.dump(beaches, blueFlagData, sort_keys=True, indent=4)
+	# blueFlagData.close()
 downloadData()
